@@ -1,5 +1,4 @@
-# <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/>
-겨울방학 알고리즘 스터디
+# <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/> 겨울방학 알고리즘 스터디
 
 ## 진행방식
   - 매주 개별적으로 3문제를 풀고 문제 1개를 정해서 풀이를 발표합니다. 이후 스터디 시간에 공통 문제하나를 정해서 같이 풀어보고 풀이 과정을 공유하는 시간을 가집니다.
